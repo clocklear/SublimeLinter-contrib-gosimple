@@ -1,7 +1,7 @@
 SublimeLinter-contrib-gosimple
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-gosimple.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-gosimple)
+[![Build Status](https://travis-ci.org/clocklear/SublimeLinter-contrib-gosimple.svg?branch=master)](https://travis-ci.org/clocklear/SublimeLinter-contrib-gosimple)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple). It will be used with files that have the “Go” syntax.
 
